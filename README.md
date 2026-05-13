@@ -1,4 +1,8 @@
 Proyecto Apogeo - Analisis de Datos de Empuje de Motor
+- Duilio Alfonso Morgan Gallardo 2B
+- Manuela Maria Rojas Sanchez 2B
+- Camilla Zepeda-Jimenez 2A
+- Bruno Gael López Ceballos 2A
 
 Para ejecutar el software de manera correcta siga estos pasos:
 Descargue todos los archivos adjuntos de Teams y guárdelos juntos dentro de una misma carpeta nueva.
